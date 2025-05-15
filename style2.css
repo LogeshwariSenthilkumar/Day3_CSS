@@ -1,0 +1,6 @@
+/*Box Model*/
+h1{
+    border: 10px double red;
+    padding: 10px;
+    margin: 20px;
+}

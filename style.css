@@ -1,0 +1,25 @@
+/*
+Cominators:
+1.descendant
+
+2.child
+
+3.next sibiling:
+
+4.sub-sequence sibiling:
+
+*/
+div h1{
+    color: red;
+}
+div>h1{
+    color: blue;
+}
+div +p{
+    color:purple
+}
+div~p{
+    color:green
+}
+
+
